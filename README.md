@@ -5,7 +5,7 @@
     <img src="https://leonidasyopan.com/img/logo-leonidas-yopan.png" alt="Logo Leonidas Yopan" width="300" height="94">
   </a>
 
-  <h3 align="center">App de Agendamento para Barbearias</h3>
+  <h3 align="center">Desafio RocketSeat</h3>
 
   <p align="center">
     Esta é uma aplicação para agendamento de horário para barbarias.
@@ -24,7 +24,7 @@
 </p>
 
 
-# Agendamento para Barbeárias
+# Desafio RocketSeat
 
 // ToDo
 
